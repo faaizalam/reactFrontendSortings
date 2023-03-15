@@ -1,0 +1,50 @@
+export let products=[
+    {
+    name:"shirt",
+    price:200,
+    image:"/images/bags1.jpg"
+},
+    {
+    name:"shirt",
+    price:400,
+    image:"/images/bags3.jpg"
+},
+    {
+    name:"shirt",
+    price:300,
+    image:"/images/bags2.jpg"
+},
+{
+name:"pent",
+price:100,
+image:"/images/pent2.jpg"
+},
+{
+    name:"pent",
+    price:900,
+    image:"/images/pent1.jpg"
+},
+    {
+    name:"pent",
+    price:340,
+    image:"/images/pent3.jpg"
+},
+
+{
+    name:"bags",
+    price:400,
+    image:"/images/bags1.jpg"
+},
+{
+    name:"bags",
+    price:200,
+    image:"/images/bags2.jpg"
+},
+{
+    name:"bags",
+    price:380,
+    image:"/images/bags3.jpg"
+},
+
+
+]
